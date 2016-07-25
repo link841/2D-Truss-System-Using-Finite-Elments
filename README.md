@@ -1,4 +1,4 @@
-# 2D-Truss-System-Using-Matrix-Finite-Elments
+# 2D-Truss-System-Using-Finite-Elments
 2D Truss System Using Matrix + Finite Elments MATLAB
 
 1. Set the input file in the format of example input
